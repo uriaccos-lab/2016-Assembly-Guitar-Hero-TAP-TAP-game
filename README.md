@@ -13,5 +13,8 @@ GuitarM.exe\
 
 NOTE: in this example of commands the file of the game "GuitarM.asm" was placed at "C:\assembly\tasm\new"
 
-https://github.com/user-attachments/assets/89cebef5-8315-4331-86cd-d2461e4307bc
+
+
+https://github.com/user-attachments/assets/2f8954fc-16c0-4563-97d9-39d2e3480651
+
 
